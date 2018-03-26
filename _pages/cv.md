@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Sept 2017 to date: Adjuct Lecturer
+* Sept 2017 to date: Adjunct Lecturer
   * Jomo Kenyata University of Agriculture and Technology
   * Duties included: Teaching and Supervision
 * More soon
