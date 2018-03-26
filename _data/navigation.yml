@@ -15,6 +15,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+    
+  - title: "Study Group"
+    url: https://kipkurui.github.io/studyGroup/
+    
   - title: "CV"
     url: /cv/
     
