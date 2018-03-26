@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master", "gh-pages"
+  branch                 : "master" #, "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Caleb Kibet"
-  avatar           : "profile.png"
+  avatar           : "Caleb_Kibet.png"
   bio              : "A Bioinformatician trying to make Genomic Data Speak while promoting open science"
   location         : "Nairobi, Kenya"
   employer         : "JKUAT"
